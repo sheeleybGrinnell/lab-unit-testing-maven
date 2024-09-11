@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
  * @author Samuel A. Rebelsky
  * @author Your Name Here
  */
-public class SampleMethodsTests {
+public class TestSampleMethods {
   /**
    * A test that should succeed.
    */
