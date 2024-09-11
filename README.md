@@ -1,5 +1,5 @@
-# Sample CSC-207 Project
+# lab-unit-testing-maven
 
-A sample CSC-207 project.
+A lab on unit testing (with some Maven structure).
 
 This code may be found at <https://github.com/Grinnell-CSC207/partition-experiments>.
